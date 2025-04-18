@@ -2,7 +2,7 @@
 
 Django-Shopify is an online Python Ecommerce website built with Django, SQLite and Bootstrap. A simple and lightweight ecommerce app easily deployable anywhere anytime with modules developed upon the inbuilt django admin.
 
-<p align="center"><img src="/pyshop-app.png"></p>
+<p align="center"><img src="/django-shopify-app.jpg"></p>
 
 
 # Get Started
